@@ -548,10 +548,10 @@ banapple
 pineapple
 strawberry
 
-\$ shopt -s extglob
+\$ shopt -s extglob<br/>
 ls -l @(ba\*(na)|a+(p)le)
 
-- [ ] a
+- [x] a
 
 ```bash
 apple
